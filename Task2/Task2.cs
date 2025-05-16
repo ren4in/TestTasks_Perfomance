@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.IO;
 
-class Program
+class Task2
 {
     static void Main(string[] args)
     {
